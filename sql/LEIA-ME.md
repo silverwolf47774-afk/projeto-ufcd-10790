@@ -8,7 +8,7 @@ Esta pasta é **opcional** — usa-a se o teu projeto utilizar SQL externo ao c�
 - Se quiseres guardar queries complexas fora do código Python
 - Se tiveres dados de exemplo para popular a base de dados em testes
 
-## Ficheiros sugeridos
+## Ficheiros sugeridos 
 
 | Ficheiro              | Descrição                                              |
 |-----------------------|--------------------------------------------------------|
