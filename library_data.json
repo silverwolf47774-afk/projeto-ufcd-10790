@@ -1,0 +1,13 @@
+{
+    "books": [
+        {
+            "title": "Os meus pesadelos",
+            "author": "João",
+            "isbn": "IDK",
+            "genre": "Horror",
+            "year": "2000",
+            "quantity": 19
+        }
+    ],
+    "loans": []
+}
