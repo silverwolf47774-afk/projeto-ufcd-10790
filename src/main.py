@@ -77,7 +77,6 @@ def edit_book(storage):
             book = storage.books[idx]
             print(f"Editando: {book}")
             book.title = input(f"Título [{book.title}]: ") or book.title
-            # ... (podes adicionar mais campos se quiseres)
             storage.save_data()
             print("Livro atualizado!")
     except:
