@@ -1,0 +1,10 @@
+ID,Nome do Requisito,Descrição Detalhada,Ator,Prioridade,Critério de Aceitação,Módulo
+RF01,Adicionar Livro,"Adicionar livro com título, autor, ISBN, género, ano e quantidade",Bibliotecário,Alta,Livro aparece na listagem com dados corretos,Gestão de Livros
+RF02,Listar Livros,"Listar todos os livros com título, autor, ISBN e stock",Utilizador / Bibliotecário,Alta,Lista é exibida corretamente,Gestão de Livros
+RF03,Pesquisar Livros,"Pesquisar por título, autor ou ISBN",Utilizador,Alta,Resultados relevantes são mostrados,Gestão de Livros
+RF04,Editar Livro,Editar dados de um livro existente,Bibliotecário,Alta,Alterações são guardadas e visíveis,Gestão de Livros
+RF05,Remover Livro,Remover livro do catálogo,Bibliotecário,Alta,Livro removido não aparece mais,Gestão de Livros
+RF06,Registar Empréstimo,Registar empréstimo verificando stock,Utilizador / Bibliotecário,Alta,Stock decrementado e empréstimo registado,Empréstimos
+RF07,Registar Devolução,Registar devolução e atualizar stock,Utilizador / Bibliotecário,Alta,Stock incrementado e estado atualizado,Empréstimos
+RF08,Consultar Empréstimos Atuais,Ver livros atualmente emprestados,Utilizador / Bibliotecário,Alta,Lista de empréstimos ativos é exibida,Empréstimos
+RF09,Histórico de Empréstimos,Consultar histórico de empréstimos,Bibliotecário,Média,Histórico ordenado por data,Relatórios

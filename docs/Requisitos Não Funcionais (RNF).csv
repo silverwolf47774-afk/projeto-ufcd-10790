@@ -1,0 +1,7 @@
+ID,Nome,Descrição,Prioridade
+RNF01,Usabilidade,Interface de consola intuitiva com menus claros,Alta
+RNF02,Desempenho,Todas as operações instantâneas (< 1 segundo),Alta
+RNF03,Segurança,Validação de dados de entrada e armazenamento seguro,Média
+RNF04,Manutenibilidade,"Código modular, comentado e organizado em classes",Alta
+RNF05,Persistência,Dados guardados em ficheiro JSON,Alta
+RNF06,Compatibilidade,"Funciona em Python 3.8+ (Windows, Linux, macOS)",Baixa
